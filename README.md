@@ -26,3 +26,20 @@ Consignes de rendu :
 • Les étudiants doivent déposer leur travail sur GitHub avant la date limite.( je vais 
 mettre un excel ou vous pourrez écrire vos groupes, ainsi que le lien github) 
 Date de rendu : 2 février 
+
+1 Scène :
+
+    a) scéne du menu start et scène de jeu
+
+2 Interface :
+
+    a) boutons pour parier et garder sa main
+       texte pour indiquer si on a gagné ou perdu
+
+3 Evénement aléatoire :
+
+    a) distribution des cartes aléatoire
+
+4 Manipulation des préfabs :
+
+    a) préfab des cartes
