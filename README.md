@@ -43,3 +43,7 @@ Date de rendu : 2 février
 4 Manipulation des préfabs :
 
     a) préfab des cartes
+
+## description du jeu
+
+Le but du jeu est de parier le prêt étudiant de votre fils dans une partie de poker avec luigi le goat.
